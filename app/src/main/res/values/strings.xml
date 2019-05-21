@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP Example</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_username">enter username</string>
+    <string name="login">Login</string>
+    <string name="simple_login_using_mvp_method">Simple Login Using MVP method. Type \nusername : samir \npassword : samir \nfor login test.</string>
+</resources>
